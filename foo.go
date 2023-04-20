@@ -1,0 +1,2 @@
+//foo
+package foo
